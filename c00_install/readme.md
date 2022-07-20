@@ -3,30 +3,14 @@ Pada kesempatan kali ini kita akan melakukan installasi beberapa tools diantaran
 
 ## 1. Git
 ### Install Git
-    - Windows
-        - [Download Git](https://git-scm.com/downloads)
-    - Linux
+- Insall git pada Sistem Operasi Windows
+- Install git pada Sistem Operasi Linux
 ### Membuat Account di Github
+### Membuat repository project dalam Github
 
 ## 2. Anaconda
-## Install Anaconda
-- Buka website resmi anaconda [klik disini](https://www.anaconda.com/)
-![web_img](/assets/images/c00_install/widows/anaconda/ac1.png)
-- Jika proses download sudah selesei, buka file installasi -> klik kanan --> Run as administrator
-![install_img](/assets/images/c00_install/widows/anaconda/ac4.png)
-- Klik tombol Next
-![install_img2](/assets/images/c00_install/widows/anaconda/ac5.png)
-- Pilih I Agree untuk melanjutkan proses installasi
-![install_img3](/assets/images/c00_install/widows/anaconda/ac6.png)
-![install_img4](/assets/images/c00_install/widows/anaconda/ac7.png)
-- Secara default anaconda akan di install pada directori C. Klik Next
-![install_img5](/assets/images/c00_install/widows/anaconda/ac8.png)
-![install_img6](/assets/images/c00_install/widows/anaconda/ac9.png)
-- Tunggu hingga prosess installasi selesei
-![install_img6](/assets/images/c00_install/widows/anaconda/ac10.png)
-![install_img6](/assets/images/c00_install/widows/anaconda/ac11.png)
-![install_img6](/assets/images/c00_install/widows/anaconda/ac12.png)
-- OK installasi berhasil
-![install_img6](/assets/images/c00_install/widows/anaconda/ac13.png)
-
-
+### Install anaconda
+### Memanage conda environtment
+- Membuat environtment baru
+- Menggunakan environtment
+- Menginstall depedensi menggunakan anaconda
